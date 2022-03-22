@@ -2642,7 +2642,7 @@ input, select, textarea {
 
 		#header .image.avatar {
 			margin: 0 0 1em 0;
-			width: 6.25em;
+			width: 9.25em;
 		}
 
 /* Footer */
@@ -2652,7 +2652,7 @@ input, select, textarea {
 	}
 
 		#footer .icons a {
-			color: rgba(255, 255, 255, 0.4);
+			color: rgba(255, 255, 255, 0.4);	
 		}
 
 	#footer .copyright {
@@ -2680,6 +2680,7 @@ input, select, textarea {
 			#footer .copyright li a {
 				color: inherit;
 			}
+
 
 /* Main */
 
@@ -3025,6 +3026,7 @@ input, select, textarea {
 				padding-left: 0;
 			}
 
+
 		/* Main */
 
 			#main {
@@ -3090,13 +3092,14 @@ input, select, textarea {
 				padding: 4em 4em 6em 4em;
 				position: relative;
 				text-align: center;
-				width: 100%;
+				width: 100%;				
 			}
 
 				#footer .icons {
 					margin: 0 0 1em 0;
 				}
 
+				
 				#footer .copyright {
 					margin: 0 0 1em 0;
 				}
