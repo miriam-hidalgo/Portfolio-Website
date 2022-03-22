@@ -2606,7 +2606,6 @@ input, select, textarea {
 		text-align: right;
 		top: 0;
 		width: 35%;
-		z-index: -1;
 	}
 
 		#header > * {
