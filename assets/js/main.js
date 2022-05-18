@@ -105,17 +105,4 @@
   //       windowMargin: breakpoints.active("<=small") ? 0 : 50,
   //     });
   //   });
-
-  // Contact Form - Send email
-$main.on("submit", function (){
-    Email.send({
-      Host: "smtp.yourisp.com",
-      Username: "username",
-      Password: "password",
-      To: "them@website.com",
-      From: "you@isp.com",
-      Subject: "This is the subject",
-      Body: "And this is the body",
-    }).then((message) => alert(message));
-  }
 })(jQuery);

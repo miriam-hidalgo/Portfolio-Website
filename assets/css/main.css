@@ -2240,6 +2240,9 @@ input, select, textarea {
 			}
 
 /* Actions */
+	.actions {
+		margin-top: 1.875rem;
+	}
 
 	ul.actions {
 		display: -moz-flex;
