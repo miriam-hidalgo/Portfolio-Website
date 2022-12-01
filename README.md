@@ -1,3 +1,3 @@
 # Portfolio-Website
 
-https://miriamhidalgo.net/
+https://miriamhidalgo.dev/
