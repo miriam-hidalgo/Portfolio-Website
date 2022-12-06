@@ -283,6 +283,18 @@ h6 {
   line-height: 1.5em;
 }
 
+.maintenance {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.maintenance--item {
+  font-size: 2rem;
+  margin-left: 0.5em;
+  margin-bottom: 0;
+}
+
 sub {
   font-size: 0.8em;
   position: relative;
